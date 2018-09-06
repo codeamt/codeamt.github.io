@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android-development on codeamt</title>
+    <link>https://codeamt.github.io/tags/android-development/</link>
+    <description>Recent content in Android-development on codeamt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 04 Sep 2018 20:11:23 -0400</lastBuildDate>
+    
+	<atom:link href="https://codeamt.github.io/tags/android-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Grow With Google - Phase 1 Projects</title>
+      <link>https://codeamt.github.io/project/gwg-p1/</link>
+      <pubDate>Tue, 04 Sep 2018 20:11:23 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/project/gwg-p1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sunshine App</title>
+      <link>https://codeamt.github.io/project/sunshine-app/</link>
+      <pubDate>Tue, 04 Sep 2018 20:08:00 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/project/sunshine-app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xyz Reader</title>
+      <link>https://codeamt.github.io/project/xyz-reader/</link>
+      <pubDate>Tue, 04 Sep 2018 20:01:34 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/project/xyz-reader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baking App</title>
+      <link>https://codeamt.github.io/project/baking-app/</link>
+      <pubDate>Tue, 04 Sep 2018 19:56:44 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/project/baking-app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pop Movies</title>
+      <link>https://codeamt.github.io/project/pop-movies/</link>
+      <pubDate>Tue, 04 Sep 2018 19:53:28 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/project/pop-movies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sandwich App</title>
+      <link>https://codeamt.github.io/project/sandwich-app/</link>
+      <pubDate>Tue, 04 Sep 2018 19:42:32 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/project/sandwich-app/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

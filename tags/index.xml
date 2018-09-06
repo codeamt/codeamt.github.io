@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on codeamt</title>
+    <link>https://codeamt.github.io/tags/</link>
+    <description>Recent content in Tags on codeamt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 04 Sep 2018 20:11:23 -0400</lastBuildDate>
+    
+	<atom:link href="https://codeamt.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Android-development</title>
+      <link>https://codeamt.github.io/tags/android-development/</link>
+      <pubDate>Tue, 04 Sep 2018 20:11:23 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/tags/android-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blockchain</title>
+      <link>https://codeamt.github.io/tags/blockchain/</link>
+      <pubDate>Wed, 05 Sep 2018 03:05:49 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep-learning</title>
+      <link>https://codeamt.github.io/tags/deep-learning/</link>
+      <pubDate>Tue, 04 Sep 2018 20:36:40 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Js</title>
+      <link>https://codeamt.github.io/tags/js/</link>
+      <pubDate>Wed, 05 Sep 2018 15:54:39 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/tags/js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Popular</title>
+      <link>https://codeamt.github.io/tags/popular/</link>
+      <pubDate>Wed, 05 Sep 2018 03:13:30 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/tags/popular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rails</title>
+      <link>https://codeamt.github.io/tags/rails/</link>
+      <pubDate>Wed, 05 Sep 2018 15:54:39 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/tags/rails/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web-vr</title>
+      <link>https://codeamt.github.io/tags/web-vr/</link>
+      <pubDate>Wed, 05 Sep 2018 03:13:30 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/tags/web-vr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

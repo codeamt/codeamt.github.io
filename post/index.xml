@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on codeamt</title>
+    <link>https://codeamt.github.io/post/</link>
+    <description>Recent content in Posts on codeamt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://codeamt.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sample</title>
+      <link>https://codeamt.github.io/post/sample/</link>
+      <pubDate>Tue, 04 Sep 2018 23:36:27 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/post/sample/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

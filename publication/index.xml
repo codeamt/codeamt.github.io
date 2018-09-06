@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on codeamt</title>
+    <link>https://codeamt.github.io/publication/</link>
+    <description>Recent content in Publications on codeamt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://codeamt.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Experimenting With Deep Learning</title>
+      <link>https://codeamt.github.io/publication/deep-learning-medium/</link>
+      <pubDate>Wed, 05 Sep 2018 01:23:44 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/publication/deep-learning-medium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lessons from Learning Android</title>
+      <link>https://codeamt.github.io/publication/android-medium/</link>
+      <pubDate>Wed, 05 Sep 2018 01:01:16 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/publication/android-medium/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

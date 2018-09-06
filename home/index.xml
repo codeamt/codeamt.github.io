@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on codeamt</title>
+    <link>https://codeamt.github.io/home/</link>
+    <description>Recent content in Homes on codeamt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://codeamt.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://codeamt.github.io/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://codeamt.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/home/about/</guid>
+      <description>Biography AnnMargaret is a Product Engineer for web and mobile and has over 4 years of experience deploying web projects as both a freelance developer and employee. Her language proficiencies span several object-oriented programming languages, including JavaScript, Ruby, Python and Java. Currently, she is completing an Andvanced Android Development Nanodegree as a 2017 Grow With Google Scholarship Award recipient where she also provides technical support to fellow scholars as an appointed Student Leader.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://codeamt.github.io/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Talks</title>
+      <link>https://codeamt.github.io/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/home/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>https://codeamt.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/home/projects/</guid>
+      <description>Click on a filter for portfolio links to projects.</description>
+    </item>
+    
+    <item>
+      <title>Popular Posts</title>
+      <link>https://codeamt.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://codeamt.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://codeamt.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research &amp; Submissions</title>
+      <link>https://codeamt.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Volunteering</title>
+      <link>https://codeamt.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/home/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://codeamt.github.io/home/search/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/home/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://codeamt.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://codeamt.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Popular on codeamt</title>
+    <link>https://codeamt.github.io/tags/popular/</link>
+    <description>Recent content in Popular on codeamt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 05 Sep 2018 03:13:30 -0400</lastBuildDate>
+    
+	<atom:link href="https://codeamt.github.io/tags/popular/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Web VR: The Story of OJ</title>
+      <link>https://codeamt.github.io/project/oj-story/</link>
+      <pubDate>Wed, 05 Sep 2018 03:13:30 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/project/oj-story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethereum ICO</title>
+      <link>https://codeamt.github.io/project/eth-ico/</link>
+      <pubDate>Tue, 04 Sep 2018 21:14:23 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/project/eth-ico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pop Movies</title>
+      <link>https://codeamt.github.io/project/pop-movies/</link>
+      <pubDate>Tue, 04 Sep 2018 19:53:28 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/project/pop-movies/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

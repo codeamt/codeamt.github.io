@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>codeamt on codeamt</title>
+    <link>https://codeamt.github.io/</link>
+    <description>Recent content in codeamt on codeamt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Predict Crypt</title>
+      <link>https://codeamt.github.io/project/predict-crypt/</link>
+      <pubDate>Wed, 05 Sep 2018 15:54:39 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/project/predict-crypt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web VR: The Story of OJ</title>
+      <link>https://codeamt.github.io/project/oj-story/</link>
+      <pubDate>Wed, 05 Sep 2018 03:13:30 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/project/oj-story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethereum Election</title>
+      <link>https://codeamt.github.io/project/eth-election/</link>
+      <pubDate>Wed, 05 Sep 2018 03:05:49 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/project/eth-election/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Women in Machine Learning (WiML) Workshop</title>
+      <link>https://codeamt.github.io/talk/deep-block-wiml/</link>
+      <pubDate>Wed, 05 Sep 2018 02:20:43 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/talk/deep-block-wiml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Black In AI (BIA) Workshop</title>
+      <link>https://codeamt.github.io/talk/deep-block-bia/</link>
+      <pubDate>Wed, 05 Sep 2018 01:55:05 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/talk/deep-block-bia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimenting With Deep Learning</title>
+      <link>https://codeamt.github.io/publication/deep-learning-medium/</link>
+      <pubDate>Wed, 05 Sep 2018 01:23:44 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/publication/deep-learning-medium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lessons from Learning Android</title>
+      <link>https://codeamt.github.io/publication/android-medium/</link>
+      <pubDate>Wed, 05 Sep 2018 01:01:16 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/publication/android-medium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sample</title>
+      <link>https://codeamt.github.io/post/sample/</link>
+      <pubDate>Tue, 04 Sep 2018 23:36:27 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/post/sample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethereum User Directory</title>
+      <link>https://codeamt.github.io/project/eth-directory/</link>
+      <pubDate>Tue, 04 Sep 2018 21:21:40 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/project/eth-directory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethereum Token Minter</title>
+      <link>https://codeamt.github.io/project/eth-token-minter/</link>
+      <pubDate>Tue, 04 Sep 2018 21:18:18 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/project/eth-token-minter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethereum ICO</title>
+      <link>https://codeamt.github.io/project/eth-ico/</link>
+      <pubDate>Tue, 04 Sep 2018 21:14:23 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/project/eth-ico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequence Models</title>
+      <link>https://codeamt.github.io/project/dl-course-5/</link>
+      <pubDate>Tue, 04 Sep 2018 20:36:40 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/project/dl-course-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Neural Networks</title>
+      <link>https://codeamt.github.io/project/dl-course-4/</link>
+      <pubDate>Tue, 04 Sep 2018 20:32:14 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/project/dl-course-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structuring Machine Learning Projects</title>
+      <link>https://codeamt.github.io/project/dl-course-3/</link>
+      <pubDate>Tue, 04 Sep 2018 20:28:49 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/project/dl-course-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Deep Neural Networks</title>
+      <link>https://codeamt.github.io/project/dl-course-2/</link>
+      <pubDate>Tue, 04 Sep 2018 20:24:00 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/project/dl-course-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
