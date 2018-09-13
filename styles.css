@@ -542,7 +542,7 @@ a[data-fancybox] img {
   padding: 100px;
   border-color: #FFF;
   border-radius: 50%;
-  background-size: 60% !important;
+  background-size: auto;
   background-position: 0px 20px no-repeat;
 }
 
