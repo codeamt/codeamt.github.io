@@ -541,8 +541,8 @@ a[data-fancybox] img {
   padding: 40px;
   border-color: #FFF;
   border-radius: 50%;
-  background-size: contain;
-  /*background-position: 2px 30px;*/
+  background-size: cover;
+  /*background-position: 2px 30px no-repeat;*/
 }
 
 #profile .portrait-title h2 {
