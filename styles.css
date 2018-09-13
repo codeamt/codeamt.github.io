@@ -41,7 +41,24 @@ body {
   font-size: 1rem;
   line-height: inherit;
   color: inherit;
-  background-color: rgb(40, 42, 54);
+  background-color: rgb(17,17,17);
+categories
+files
+home
+img
+index.html
+index.json
+index.xml
+js
+post
+project
+publication
+publication_types
+site.webmanifest
+sitemap.xml
+styles.css
+tags
+talk;
   margin-top: 71px; /* Offset body content by navbar height. */
   padding-top: 0;
   counter-reset: captions;
