@@ -41,7 +41,7 @@ body {
   font-size: 1rem;
   line-height: inherit;
   color: inherit;
-  background-color: #fff;
+  background-color: rgb(40, 42, 54);
   margin-top: 71px; /* Offset body content by navbar height. */
   padding-top: 0;
   counter-reset: captions;
@@ -115,14 +115,14 @@ h4, h5, h6 {
 
 a,
 h3.article-title a:hover {
-  color: #3f51b5;
+  color: #8c9eff /*<no value>*/;
   text-decoration: none;
   transition: color 0.6s ease;
 }
 
 a:hover,
 a:focus {
-  color: #3f51b5;
+  color: #8c9eff/*<no value>*/;
 }
 
 img,
@@ -395,7 +395,7 @@ a[data-fancybox] img {
 }
 
 .home-section {
-  background-color: rgb(255, 255, 255);
+  background-color: #111;
   padding: 110px 0 110px 0;
   animation: intro 0.3s both;
   animation-delay: 0.15s;
@@ -406,7 +406,7 @@ a[data-fancybox] img {
 }
 
 .home-section:nth-of-type(even) {
-  background-color: rgb(247, 247, 247);
+  background-color: rgb(40, 42, 54);
 }
 
 @media screen and (max-width: 768px) {
@@ -501,7 +501,7 @@ a[data-fancybox] img {
 .featurette-icon {
   display: block;
   width: 100%;
-  color: #3f51b5;
+  color: #000;
   font-size: 3rem;
   text-align: center;
 }
@@ -521,8 +521,11 @@ a[data-fancybox] img {
   width: 200px;
   height: 200px;
   margin: 0 auto;
+  padding: 40px;
+  border-color: #FFF;
   border-radius: 50%;
-  background-size: cover;
+  background-size: contain;
+  background-position: 2px 30px;
 }
 
 #profile .portrait-title h2 {
@@ -563,6 +566,7 @@ a[data-fancybox] img {
 
 .big-icon {
   font-size: 2rem;
+  color: #8c9eff;
 }
 
 ul.ul-interests li {
@@ -720,7 +724,7 @@ article .article-metadata {
 }
 
 .article-metadata a:hover {
-  color: #3f51b5;
+  color: #000;
 }
 
 .middot-divider {
@@ -1087,8 +1091,8 @@ a.label:hover {
  **************************************************/
 
 .btn-primary {
-  border-color: #3f51b5 !important;
-  background: #3f51b5 !important;
+  border-color: #000 !important;
+  background: #000 !important;
 }
 
 .btn-primary:hover,
@@ -1096,7 +1100,7 @@ a.label:hover {
 .btn-primary.active,
 .btn-primary:visited,
 .open > .dropdown-toggle.btn-primary {
-  background: #3f51b5 !important;
+  background: #000 !important;
 }
 
 .btn-light {
@@ -1149,12 +1153,12 @@ a.label:hover {
 }
 
 .btn-primary.btn-outline {
-  color: #3f51b5 !important;
-  border-color: #3f51b5 !important;
+  color: #000 !important;
+  border-color: #000 !important;
 }
 
 .btn-primary.btn-outline:focus {
-  color: #3f51b5 !important;
+  color: #000 !important;
 }
 
 .btn-primary.btn-outline:active {
@@ -1208,7 +1212,7 @@ a.label:hover {
 }
 
 .navbar-default {
-  background: #3f51b5;
+  background: #000;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11)
 }
 
@@ -1270,7 +1274,7 @@ nav#navbar-main li {
 }
 
 .dropdown-menu {
-  background-color: #3f51b5 !important;
+  background-color: #000 !important;
 }
 
 .dropdown-menu > li > a {
@@ -1287,13 +1291,13 @@ nav#navbar-main li {
 .dropdown-menu>li>a:hover {
   color: #8c9eff;
   text-decoration: none;
-  background-color: #3f51b5;
+  background-color: #000;
 }
 
 .dropdown-menu > .active > a,
 .dropdown-menu > .active > a:focus,
 .dropdown-menu > .active > a:hover {
-  color: #3f51b5;
+  color: #000;
   text-decoration: none;
   background-color: #8c9eff;
   outline: 0;
@@ -1304,19 +1308,19 @@ nav#navbar-main li {
 .navbar-default .navbar-nav>.open>a:hover,
 .navbar-default .navbar-nav>.open>a:visited {
   color: #fff !important;
-  background-color: #3f51b5 !important;
+  background-color: #000 !important;
 }
 
 .navbar-default .navbar-brand {
   text-transform: uppercase;
   font-weight: bold;
   font-size: 1.2em;
-  color: #fff;
+  color: #000;
 }
 
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:hover {
-  color: #fff;
+  color: #000;
   background-color: transparent;
 }
 
@@ -1575,7 +1579,7 @@ body.dark {
 }
 
 .dark ul.share li a {
-  background-color: #3f51b5;
+  background-color: #000;
 }
 
 .dark table table {
@@ -1629,7 +1633,7 @@ body.dark {
 }
 
 .dark .card h4 a {
-  color: #3f51b5;
+  color: #8c9eff/*#000*/;
   border-bottom: solid 1px transparent;
 }
 

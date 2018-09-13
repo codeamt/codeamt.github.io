@@ -49,12 +49,12 @@
     </item>
     
     <item>
-      <title>Portfolio</title>
+      <title>Portfolios</title>
       <link>https://codeamt.github.io/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://codeamt.github.io/home/projects/</guid>
-      <description>Click on a filter for portfolio links to projects.</description>
+      <description></description>
     </item>
     
     <item>
@@ -81,6 +81,15 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://codeamt.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://codeamt.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://codeamt.github.io/home/tags/</guid>
       <description></description>
     </item>
     
@@ -112,20 +121,11 @@
     </item>
     
     <item>
-      <title>Contact</title>
+      <title>Connect</title>
       <link>https://codeamt.github.io/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://codeamt.github.io/home/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tags</title>
-      <link>https://codeamt.github.io/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://codeamt.github.io/home/tags/</guid>
       <description></description>
     </item>
     

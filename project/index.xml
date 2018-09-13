@@ -13,155 +13,56 @@
     
     
     <item>
-      <title>Predict Crypt</title>
-      <link>https://codeamt.github.io/project/predict-crypt/</link>
+      <title>View Portfolio</title>
+      <link>https://codeamt.github.io/project/deep-learning/</link>
       <pubDate>Wed, 05 Sep 2018 15:54:39 -0400</pubDate>
       
-      <guid>https://codeamt.github.io/project/predict-crypt/</guid>
+      <guid>https://codeamt.github.io/project/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Web VR: The Story of OJ</title>
-      <link>https://codeamt.github.io/project/oj-story/</link>
+      <title>View Portfolio</title>
+      <link>https://codeamt.github.io/project/android/</link>
       <pubDate>Wed, 05 Sep 2018 03:13:30 -0400</pubDate>
       
-      <guid>https://codeamt.github.io/project/oj-story/</guid>
+      <guid>https://codeamt.github.io/project/android/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ethereum Election</title>
-      <link>https://codeamt.github.io/project/eth-election/</link>
-      <pubDate>Wed, 05 Sep 2018 03:05:49 -0400</pubDate>
-      
-      <guid>https://codeamt.github.io/project/eth-election/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ethereum User Directory</title>
-      <link>https://codeamt.github.io/project/eth-directory/</link>
-      <pubDate>Tue, 04 Sep 2018 21:21:40 -0400</pubDate>
-      
-      <guid>https://codeamt.github.io/project/eth-directory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ethereum Token Minter</title>
-      <link>https://codeamt.github.io/project/eth-token-minter/</link>
-      <pubDate>Tue, 04 Sep 2018 21:18:18 -0400</pubDate>
-      
-      <guid>https://codeamt.github.io/project/eth-token-minter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ethereum ICO</title>
-      <link>https://codeamt.github.io/project/eth-ico/</link>
+      <title>View Portfolio</title>
+      <link>https://codeamt.github.io/project/eth-js/</link>
       <pubDate>Tue, 04 Sep 2018 21:14:23 -0400</pubDate>
       
-      <guid>https://codeamt.github.io/project/eth-ico/</guid>
+      <guid>https://codeamt.github.io/project/eth-js/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sequence Models</title>
-      <link>https://codeamt.github.io/project/dl-course-5/</link>
-      <pubDate>Tue, 04 Sep 2018 20:36:40 -0400</pubDate>
-      
-      <guid>https://codeamt.github.io/project/dl-course-5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Convolutional Neural Networks</title>
-      <link>https://codeamt.github.io/project/dl-course-4/</link>
-      <pubDate>Tue, 04 Sep 2018 20:32:14 -0400</pubDate>
-      
-      <guid>https://codeamt.github.io/project/dl-course-4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Structuring Machine Learning Projects</title>
-      <link>https://codeamt.github.io/project/dl-course-3/</link>
-      <pubDate>Tue, 04 Sep 2018 20:28:49 -0400</pubDate>
-      
-      <guid>https://codeamt.github.io/project/dl-course-3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Improving Deep Neural Networks</title>
-      <link>https://codeamt.github.io/project/dl-course-2/</link>
-      <pubDate>Tue, 04 Sep 2018 20:24:00 -0400</pubDate>
-      
-      <guid>https://codeamt.github.io/project/dl-course-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neural Networks and Deep Learning</title>
-      <link>https://codeamt.github.io/project/dl-course-1/</link>
-      <pubDate>Tue, 04 Sep 2018 20:18:47 -0400</pubDate>
-      
-      <guid>https://codeamt.github.io/project/dl-course-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grow With Google - Phase 1 Projects</title>
-      <link>https://codeamt.github.io/project/gwg-p1/</link>
+      <title>View Portfolio</title>
+      <link>https://codeamt.github.io/project/web-vr/</link>
       <pubDate>Tue, 04 Sep 2018 20:11:23 -0400</pubDate>
       
-      <guid>https://codeamt.github.io/project/gwg-p1/</guid>
+      <guid>https://codeamt.github.io/project/web-vr/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sunshine App</title>
-      <link>https://codeamt.github.io/project/sunshine-app/</link>
+      <title>View Portfolio</title>
+      <link>https://codeamt.github.io/project/front-end/</link>
       <pubDate>Tue, 04 Sep 2018 20:08:00 -0400</pubDate>
       
-      <guid>https://codeamt.github.io/project/sunshine-app/</guid>
+      <guid>https://codeamt.github.io/project/front-end/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Xyz Reader</title>
-      <link>https://codeamt.github.io/project/xyz-reader/</link>
-      <pubDate>Tue, 04 Sep 2018 20:01:34 -0400</pubDate>
-      
-      <guid>https://codeamt.github.io/project/xyz-reader/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Baking App</title>
-      <link>https://codeamt.github.io/project/baking-app/</link>
-      <pubDate>Tue, 04 Sep 2018 19:56:44 -0400</pubDate>
-      
-      <guid>https://codeamt.github.io/project/baking-app/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pop Movies</title>
-      <link>https://codeamt.github.io/project/pop-movies/</link>
+      <title>View Portfolio</title>
+      <link>https://codeamt.github.io/project/ror/</link>
       <pubDate>Tue, 04 Sep 2018 19:53:28 -0400</pubDate>
       
-      <guid>https://codeamt.github.io/project/pop-movies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sandwich App</title>
-      <link>https://codeamt.github.io/project/sandwich-app/</link>
-      <pubDate>Tue, 04 Sep 2018 19:42:32 -0400</pubDate>
-      
-      <guid>https://codeamt.github.io/project/sandwich-app/</guid>
+      <guid>https://codeamt.github.io/project/ror/</guid>
       <description></description>
     </item>
     
