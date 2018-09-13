@@ -535,15 +535,13 @@ a[data-fancybox] img {
 
 #profile .portrait {
   background-image: url('../img/portrait.jpg');
-  background-repeat: no-repeat;
+  /*background-repeat: no-repeat;*/
   width: 200px;
   height: 200px;
   margin: 0 auto;
-  padding: 100px;
   border-color: #FFF;
   border-radius: 50%;
-  background-size: auto;
-  background-position: 0px 20px no-repeat;
+  background-size: cover;
 }
 
 #profile .portrait-title h2 {
