@@ -543,7 +543,7 @@ a[data-fancybox] img {
   border-color: #FFF;
   border-radius: 50%;
   background-size: cover;
-  /*background-position: 2px 30px no-repeat;*/
+  background-position: 0px 20px no-repeat;
 }
 
 #profile .portrait-title h2 {
